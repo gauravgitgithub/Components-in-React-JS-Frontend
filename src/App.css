@@ -1,0 +1,30 @@
+.App {
+  text-align: left;
+}
+
+.main-content{
+  width: 28%;
+  position: absolute;
+  margin-top: 1%;
+  left: 70%;
+  box-align: right;
+  -webkit-box-shadow: 16px 15px 40px -1px rgba(0,0,0,0.75);
+    -moz-box-shadow: 16px 15px 40px -1px rgba(0,0,0,0.75);
+    box-shadow: 16px 15px 40px -1px rgba(0,0,0,0.75);
+    padding: 2%;
+  font: outline;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 15px;
+  inset-inline-end: inherit;
+  
+}
+
+.row{
+  padding: 5%;
+}
+
+.page-element {
+  padding: 1em;
+  margin: 0;
+  }
+
